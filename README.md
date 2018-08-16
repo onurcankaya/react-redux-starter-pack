@@ -1,1 +1,3 @@
-# react redux starter pack
+# React-Redux Starter Pack
+
+Redux structure on top of create-react-app
